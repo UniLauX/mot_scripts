@@ -1,22 +1,21 @@
 # README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
+Multi-object tracking(MOT) Scripts for research purpose.
 
 ### What is this repository for? ###
 
-* This project mainly covers some scripts wrote by Uni for handling with MOT problem= 
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This project mainly contain some scripts wrote by Uni for handling with MOT problem.
+
+* Version 1
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
+* Language: Python 2.7
+* Originial Environment: VS Code
+
  (1) all the experiment data and results are mounted in phoenix/adelaide
  $ mnt_phoenix  
 
+##================================= still under updating and completion ====================================== ##
 * How to run tests
 * Deployment instructions
 
