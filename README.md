@@ -14,18 +14,3 @@ Multi-object tracking(MOT) Scripts for research purpose.
 
  (1) all the experiment data and results are mounted in phoenix/adelaide
  $ mnt_phoenix  
-
-##================================= still under updating and completion ====================================== ##
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
